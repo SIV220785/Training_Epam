@@ -1,0 +1,5 @@
+C:\Users\SIV22\source\repos\NET.W.2019.Slavnikov.01\ArraySorting\bin\Debug\ArraySorting.dll
+C:\Users\SIV22\source\repos\NET.W.2019.Slavnikov.01\ArraySorting\bin\Debug\ArraySorting.pdb
+C:\Users\SIV22\source\repos\NET.W.2019.Slavnikov.01\ArraySorting\obj\Debug\ArraySorting.csprojAssemblyReference.cache
+C:\Users\SIV22\source\repos\NET.W.2019.Slavnikov.01\ArraySorting\obj\Debug\ArraySorting.dll
+C:\Users\SIV22\source\repos\NET.W.2019.Slavnikov.01\ArraySorting\obj\Debug\ArraySorting.pdb
