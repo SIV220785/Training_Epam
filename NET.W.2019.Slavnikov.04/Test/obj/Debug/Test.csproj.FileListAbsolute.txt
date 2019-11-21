@@ -1,0 +1,11 @@
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\bin\Debug\Test.dll
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\bin\Debug\Test.pdb
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\bin\Debug\nunit.framework.dll
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\bin\Debug\Task.dll
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\bin\Debug\Task.pdb
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\bin\Debug\nunit.framework.pdb
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\bin\Debug\nunit.framework.xml
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\obj\Debug\Test.csproj.CopyComplete
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\obj\Debug\Test.dll
+D:\Igor\EPAM\Day4\HW\NET.W.2019.Slavnikov.04\Test\obj\Debug\Test.pdb
