@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{D674A1A3-F1E2-4617-B9EF-216947CB14C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestPolynomic", "NUnitTestPolynomic\NUnitTestPolynomic.csproj", "{1AFD43EC-B4E1-446D-BFDB-7BAFB1D35CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D674A1A3-F1E2-4617-B9EF-216947CB14C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D674A1A3-F1E2-4617-B9EF-216947CB14C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D674A1A3-F1E2-4617-B9EF-216947CB14C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D674A1A3-F1E2-4617-B9EF-216947CB14C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFD43EC-B4E1-446D-BFDB-7BAFB1D35CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFD43EC-B4E1-446D-BFDB-7BAFB1D35CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFD43EC-B4E1-446D-BFDB-7BAFB1D35CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFD43EC-B4E1-446D-BFDB-7BAFB1D35CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F126A10-72C3-4D91-9EE4-34041AC1B2DA}
+	EndGlobalSection
+EndGlobal
