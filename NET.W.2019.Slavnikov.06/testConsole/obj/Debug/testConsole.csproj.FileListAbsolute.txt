@@ -1,0 +1,9 @@
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\bin\Debug\testConsole.exe.config
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\bin\Debug\testConsole.exe
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\bin\Debug\testConsole.pdb
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\bin\Debug\Task2.dll
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\bin\Debug\Task2.pdb
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\obj\Debug\testConsole.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\obj\Debug\testConsole.csproj.CopyComplete
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\obj\Debug\testConsole.exe
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\testConsole\obj\Debug\testConsole.pdb
