@@ -1,0 +1,5 @@
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\Task2\bin\Debug\Task2.dll
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\Task2\bin\Debug\Task2.pdb
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\Task2\obj\Debug\Task2.dll
+D:\Igor\EPAM\Day6\HW\NET.W.2019.Slavnikov.06\Task2\obj\Debug\Task2.pdb
