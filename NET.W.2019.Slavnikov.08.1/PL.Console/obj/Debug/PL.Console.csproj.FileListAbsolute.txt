@@ -1,0 +1,9 @@
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\obj\Debug\PL.Console.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\bin\Debug\PL.Console.exe.config
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\bin\Debug\PL.Console.exe
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\bin\Debug\PL.Console.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\bin\Debug\Book.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\bin\Debug\Book.DLL.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\obj\Debug\PL.Console.csproj.CopyComplete
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\obj\Debug\PL.Console.exe
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\PL.Console\obj\Debug\PL.Console.pdb
