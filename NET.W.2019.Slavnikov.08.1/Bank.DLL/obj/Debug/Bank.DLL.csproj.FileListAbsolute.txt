@@ -1,0 +1,5 @@
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.DLL\obj\Debug\Bank.DLL.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.DLL\bin\Debug\Bank.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.DLL\bin\Debug\Bank.DLL.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.DLL\obj\Debug\Bank.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.DLL\obj\Debug\Bank.DLL.pdb
