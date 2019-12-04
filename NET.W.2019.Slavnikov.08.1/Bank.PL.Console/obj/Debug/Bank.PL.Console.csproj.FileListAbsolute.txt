@@ -1,0 +1,9 @@
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\bin\Debug\Bank.PL.Console.exe.config
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\bin\Debug\Bank.PL.Console.exe
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\bin\Debug\Bank.PL.Console.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\bin\Debug\Bank.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\bin\Debug\Bank.DLL.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\obj\Debug\Bank.PL.Console.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\obj\Debug\Bank.PL.Console.csproj.CopyComplete
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\obj\Debug\Bank.PL.Console.exe
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Bank.PL.Console\obj\Debug\Bank.PL.Console.pdb
