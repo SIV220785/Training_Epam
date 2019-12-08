@@ -1,0 +1,10 @@
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\obj\Debug\Book.DLL.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\bin\Debug\Book.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\bin\Debug\Book.DLL.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\obj\Debug\Book.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\obj\Debug\Book.DLL.pdb
+D:\Igor\EPAM\Day10-11\HW\NET.W.2019.Slavnikov.10\NET.W.2019.Slavnikov.10\Book.DLL\bin\Debug\Book.DLL.dll
+D:\Igor\EPAM\Day10-11\HW\NET.W.2019.Slavnikov.10\NET.W.2019.Slavnikov.10\Book.DLL\bin\Debug\Book.DLL.pdb
+D:\Igor\EPAM\Day10-11\HW\NET.W.2019.Slavnikov.10\NET.W.2019.Slavnikov.10\Book.DLL\obj\Debug\Book.DLL.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day10-11\HW\NET.W.2019.Slavnikov.10\NET.W.2019.Slavnikov.10\Book.DLL\obj\Debug\Book.DLL.dll
+D:\Igor\EPAM\Day10-11\HW\NET.W.2019.Slavnikov.10\NET.W.2019.Slavnikov.10\Book.DLL\obj\Debug\Book.DLL.pdb
