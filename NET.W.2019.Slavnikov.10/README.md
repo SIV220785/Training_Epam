@@ -5,7 +5,9 @@
 -	ISBN 13: 978-0-7356-6745-7, Jeffrey Richter, CLR via C#, "Microsoft Press", 2012, P. 826.
 -	Jeffrey Richter, CLR via C#, "Microsoft Press", 2012
 -	ISBN 13: 978-0-7356-6745-7, Jeffrey Richter, CLR via C#, "Microsoft Press", 2012, P. 826., 59.99$.
-и т.д.  <a href="https://github.com/SIV220785/Training_Epam/tree/master/NET.W.2019.Slavnikov.10/Book.DLL">Task1</a>
+и т.д. 
+<a href="https://github.com/SIV220785/Training_Epam/tree/master/NET.W.2019.Slavnikov.10/Book.DLL">Task1</a>
 2. Не изменяя класс Book, добавить для объектов данного класса дополнительную возможность форматирования, изначально не предусмотренную классом. 
+<a href = "https://github.com/SIV220785/Training_Epam/tree/master/NET.W.2019.Slavnikov.10/TestBookFormat">TestBook</a>
 3. Для реализованных в пп. 1, 2 функциональностей разработать модульные тесты.
 
