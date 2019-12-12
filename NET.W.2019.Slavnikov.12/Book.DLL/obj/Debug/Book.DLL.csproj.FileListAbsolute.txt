@@ -1,0 +1,9 @@
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\obj\Debug\Book.DLL.csprojAssemblyReference.cache
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\bin\Debug\Book.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\bin\Debug\Book.DLL.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\obj\Debug\Book.DLL.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\obj\Debug\Book.DLL.pdb
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\bin\Debug\NLog.dll
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\bin\Debug\NLog.xml
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\obj\Debug\Book.DLL.csproj.CopyComplete
+D:\Igor\EPAM\Day08\HW\NET.W.2019.Slavnikov.08\Book.DLL\bin\Debug\NLog.config
