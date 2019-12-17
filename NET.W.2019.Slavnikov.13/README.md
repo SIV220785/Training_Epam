@@ -1,2 +1,2 @@
 1.	Разработать обобщенный класс-коллекцию Queue, реализующий основные операции для работы с очередью, и предоставляющий возможность итерирования, реализовав итератор «вручную» (без использования блок-итератора yield). Протестировать методы разработанного класса.
-<a href="https://github.com/SIV220785/Training_Epam/tree/master/NET.W.2019.Slavnikov.13/CustomQueue.DLL">This</a>
+<a href="https://github.com/SIV220785/Training_Epam/tree/master/NET.W.2019.Slavnikov.13/CustomQueue.DLL">Task 1</a>
