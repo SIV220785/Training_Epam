@@ -42,19 +42,7 @@ namespace TestMatrix
         }
 
         [Test]
-        public void MatrixHierarchyAdditionTest1()
-        {
-            var array1 = new int[,] { { 5, 6, -3 }, { 17, 7, 0 }, { 8, -5, 4 } };
-            var array2 = new int[,] { { 2, 3, 0 }, { 6, 11, 1 }, { 3, 3, 7 } };
-            var resultArray = new int[,] { { 7, 9, -3 }, { 23, 18, 1 }, { 11, -2, 11 } };
-            var matrixA = new SquareMatrix<int>(array1);
-            var matrixB = new SquareMatrix<int>(array2);
-            var sum = MatrixExtension<int>.Addition(matrixA, matrixB);
-            CollectionAssert.AreEqual(resultArray, sum.GetMatrix());
-        }
-
-        [Test]
-        public void MatrixHierarchyAdditionTest2()
+        public void MatrixHierarchyAdditionTest()
         {
             var squareMatrix = new int[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
             var diagonalMatrix = new int[,] { { 1, 0, 0 }, { 0, 1, 0 }, { 0, 0, 1 } };
