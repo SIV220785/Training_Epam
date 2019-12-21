@@ -90,5 +90,22 @@ namespace TestMatrix
             CollectionAssert.AreEqual(resultSymmetricalDiagonal, sumSymmetricalDiagonal.GetMatrix());
         }
 
+        [Test]
+        public void EventChangeElement()
+        {
+            var squareMatrix = new int[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
+            SquareMatrix<int> square = new SquareMatrix<int>(squareMatrix);
+            square.Changing += Square_Changing;
+            square[1, 1] = 5;
+            Assert.AreEqual(square[1, 1], square[this.indexI, this.indexJ]);
+
+        }
+
+        private void Square_Changing(object sender, ChangingMatrixElementEventArgs<int> e)
+        {
+            this.indexI = e.IndexI;
+            this.indexJ = e.IndexJ;
+        }
     }
+    
 }
